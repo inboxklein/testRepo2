@@ -5,6 +5,7 @@
 # Principal Components Analysis Using R - P2 http://www.youtube.com/watch?v=I5GxNzKLIoU 
 
 # NEW COMMENT
+# NEw
 
 library(calibrate)
 my.classes = read.csv("/Users/artjomk/work/marks.dat")
